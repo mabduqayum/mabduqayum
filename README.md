@@ -4,10 +4,6 @@
 
 ### I'm a full stack developer...
 
-###
-
-<h2>About me</h2>
-
 <p>
 ✨ Creating bugs since late 2019
 <br>📚 I'm currently learning nestjs
