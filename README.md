@@ -6,7 +6,7 @@
 
 <p>
 ✨ Creating bugs since late 2019
-<br>📚 I'm currently learning nestjs
+<br>📚 Currently learning nestjs
 <br>🎯 Goals: to complete all of neetocde exercises
 <br>🎲 Fun fact: NaN
 </p>
