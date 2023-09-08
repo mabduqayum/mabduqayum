@@ -7,7 +7,7 @@
 <p>
 ✨ Creating bugs since late 2019
 <br>📚 Currently learning go and fiber
-<br>🎯 Goals: to complete all of neetocde exercises
+<br>🎯 Goals: to complete all of neetcode exercises
 <br>🎲 Fun fact: NaN
 </p>
 
