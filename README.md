@@ -6,8 +6,8 @@
 
 <p>
 ✨ Creating bugs since late 2019
-<br>📚 Currently learning system architecture
-<br>🎯 Goals: to complete all of neetcode exercises
+<br>📚 Currently learning: System Architecture
+<br>🎯 Goals: To complete all of neetcode exercises
 <br>🎲 Fun fact: nil
 </p>
 
