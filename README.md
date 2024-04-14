@@ -43,6 +43,8 @@
 ### 🔧 Tools
 
 <div>
+<a href="https://jetbrains.com/"><img src="images/jetbrains.svg" alt="git" width="60" height="60"/></a> 
+<a href="https://code.visualstudio.com/"><img src="images/vscode.svg" alt="git" width="60" height="60"/></a> 
 <a href="https://git-scm.com/"><img src="images/git.svg" alt="git" width="60" height="60"/></a> 
 <a href="https://github.com/"><img src="images/github.svg" alt="github" width="60" height="60"/></a> 
 <a href="https://docker.com/"><img src="images/docker.svg" alt="docker" width="60" height="60"/></a> 
