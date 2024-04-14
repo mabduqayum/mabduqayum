@@ -9,7 +9,7 @@
 - 🎯 Current Goals:
     - 100 Go Mistakes (Teiva Harsanyi)
     - System Design Interview (Alex Xu)
-    - Complete all of NeetCode exercises
+    - Complete all of NeetCode - 150 exercises
 - 🎲 Fun fact: nil, null, None
 
 ## 🛠️ Skills
