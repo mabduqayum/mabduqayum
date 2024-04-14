@@ -1,38 +1,40 @@
-In late 2019 started my journey into Programming.
-Started learning python using these resources:
-- completed "The Python Workbook" by Ben Stephenson.
-- completed "Python Crash Course" by Eric Matthes.
-- w3school python tutorial.
-- Programiz python programming.
+# My Programming Journey
 
-In the spring of 2020 worked with vba for Excel macros for a university task.
-In the summer worked with python's numpy, pandas, matplotlib.
-- mainly studied with Corey Schafer tutorials on YouTube.
+## 2019
+- Started learning Python
+  - Completed "The Python Workbook" by Ben Stephenson
+  - Completed "Python Crash Course" by Eric Matthes
+  - Studied W3School Python tutorial
+  - Studied Programiz Python programming
 
-At the start of 2021 started learning Flutter and completed two courses on udemy.
-- The Complete Flutter Development Bootcamp by Angela Yu.
-- Flutter & Dart - The Complete Guide by Maximilian Schwarzmüller.
+## 2020
+- Spring: Worked with VBA for Excel macros for a university task
+- Summer: Worked with Python's NumPy, Pandas, and Matplotlib
+  - Mainly studied with Corey Schafer tutorials on YouTube
 
-In the summer of 2021 started learning Photoshop and Illustrator.
-- Partially completed "Adobe Photoshop CC – Essentials Training Course" by Daniel Walter Scott.
-- Completed "Adobe Illustrator CC - Essentials Training Course" by  Daniel Walter Scott, and Phil Ebiner.
+## 2021
+- Start of the year: Started learning Flutter and completed two Udemy courses
+  - "The Complete Flutter Development Bootcamp" by Angela Yu
+  - "Flutter & Dart - The Complete Guide" by Maximilian Schwarzmüller
+- Summer: Started learning Photoshop and Illustrator
+  - Partially completed "Adobe Photoshop CC – Essentials Training Course" by Daniel Walter Scott
+  - Completed "Adobe Illustrator CC - Essentials Training Course" by Daniel Walter Scott and Phil Ebiner
+- Autumn: Started working at Velox Company and began learning Web Development
+  - Studied W3School HTML and CSS tutorial
+  - Completed Hyperskill Frontend Core (this helped me a lot, and the time of studying it was free on their website).
+  - Studied web.dev CSS tutorials (the best-structured course)
 
-In the autumn of 2021 started working at Velox Company. Started learning Web Dev.
-- w3school HTML, CSS tutorial
-- Hyperskill Fronted Core (this helped me a lot, and the time of studying it was free on their website).
-- web.dev CSS tutorials (the best-structured course I had).
+## 2022
+- Started learning Angular
+  - Watched Angular Crash Course on YouTube by Traversy Media (great for getting a sense of Angular)
+  - Watched Angular videos on YouTube by Fireship
+  - Studied angular.io (well-structured official docs)
+  - Started learning TypeScript (because of Angular)
+  - Started learning SCSS (again, due to Angular)
+  - Started learning RxJS (for Angular, but found it difficult)
+- Worked with Git and GitHub
+- Completed "Grokking Algorithms" by Aditya Bhargava and Jed Limke
 
-Started learning Angular
-- Angular Crash Course on YouTube by Traversy Media. (Was great to get a sense of angular)
-- Angular Videos on YouTube by Fireship.
-- angular.io (official docs is also well-structured).
-- started learning TS. (because of Angular) It wasn't difficult after Dart.
-- started learning SCSS. (again reason being Angular).
-- started learning RXJS. (reason being Angular) But it was difficult.
-- worked with Git and GitHub.
-
-Completed "Grokking Algorithms" by Aditya Bhargava, Jed Limke.
-
-Figma UI UX Design Essentials by Daniel Walter Scott.
-
-In the Spring of 2023 started learning NestJs.
+## 2023
+- Completed "Figma UI UX Design Essentials" by Daniel Walter Scott
+- Spring: Started learning NestJS
