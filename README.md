@@ -4,7 +4,7 @@
 
 ### I'm a Full Stack Developer 💻
 
-- ✨ Creating bugs since late 2019
+- ✨ Creating bugs since 2019
 - 📚 Currently learning: System Architecture
 - 🎯 Current Goals:
     - 100 Go Mistakes (Teiva Harsanyi)
@@ -21,7 +21,7 @@
 <a href="https://w3schools.com/css/"><img src="images/css3.svg" alt="css3" width="60" height="60"/></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="images/js.svg" alt="javascript" width="60" height="60"/></a> 
 <a href="https://typescriptlang.org/"><img src="images/ts.svg" alt="typescript" width="60" height="60"/></a> 
-<a href="https://angular.io"><img src="images/angular.svg" alt="angular" width="60" height="60"/></a>
+<a href="https://angular.dev"><img src="images/angular.svg" alt="angular" width="60" height="60"/></a>
 <a href="https://dart.dev"><img src="images/dart.svg" alt="dart" width="60" height="60"/></a> 
 <a href="https://flutter.dev"><img src="images/flutter.svg" alt="flutter" width="60" height="60"/></a> 
 <a href="https://figma.com/"><img src="images/figma.svg" alt="figma" width="60" height="60"/></a> 
