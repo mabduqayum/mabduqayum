@@ -56,8 +56,6 @@
 
 ## 📬 Contacts
 
-- 📧 Email: mabduqayum@gmail.com
-
-- 💼 LinkedIn: linkedin.com/in/mabduqayum
-  
-- 💬 Telegram: @mabduqayum
+- 📧 Email: [mabduqayum@gmail.com](mailto:mabduqayum@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/mabduqayum](https://www.linkedin.com/in/mabduqayum)
+- 💬 Telegram: [@mabduqayum](https://t.me/mabduqayum)
