@@ -14,15 +14,22 @@
 
 ## 🛠️ Skills
 
+### 👨‍💻 Programming Languages
+
+<div>
+<a href="https://go.dev"><img src="images/go.svg" alt="go" width="60" height="60"/></a> 
+<a href="https://python.org"><img src="images/py.svg" alt="python" width="60" height="60"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="images/js.svg" alt="javascript" width="60" height="60"/></a> 
+<a href="https://typescriptlang.org/"><img src="images/ts.svg" alt="typescript" width="60" height="60"/></a> 
+<a href="https://dart.dev"><img src="images/dart.svg" alt="dart" width="60" height="60"/></a> 
+</div>
+
 ### 🖥️ Frontend
 
 <div>  
 <a href="https://w3.org/html/"><img src="images/html5.svg" alt="html5" width="60" height="60"/></a> 
 <a href="https://w3schools.com/css/"><img src="images/css3.svg" alt="css3" width="60" height="60"/></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="images/js.svg" alt="javascript" width="60" height="60"/></a> 
-<a href="https://typescriptlang.org/"><img src="images/ts.svg" alt="typescript" width="60" height="60"/></a> 
 <a href="https://angular.dev"><img src="images/angular.svg" alt="angular" width="60" height="60"/></a>
-<a href="https://dart.dev"><img src="images/dart.svg" alt="dart" width="60" height="60"/></a> 
 <a href="https://flutter.dev"><img src="images/flutter.svg" alt="flutter" width="60" height="60"/></a> 
 <a href="https://figma.com/"><img src="images/figma.svg" alt="figma" width="60" height="60"/></a> 
 <a href="https://adobe.com/in/products/illustrator.html"><img src="images/adobe-illustrator.svg" alt="illustrator" width="60" height="60"/></a> 
@@ -32,13 +39,12 @@
 ### ⚙️ Backend
 
 <div>  
-<a href="https://go.dev"><img src="images/go.svg" alt="go" width="60" height="60"/></a> 
-<a href="https://python.org"><img src="images/py.svg" alt="python" width="60" height="60"/></a> 
 <a href="https://nodejs.org"><img src="images/nodejs.svg" alt="nodejs" width="60" height="60"/></a> 
 <a href="https://nestjs.com/"><img src="images/nestjs.svg" alt="nestjs" width="60" height="60"/></a> 
 <a href="https://postgresql.org"><img src="images/psql.svg" alt="postgresql" width="60" height="60"/></a> 
 <a href="https://prisma.io/"><img src="images/prisma.svg" alt="prisma js" width="60" height="60"/></a>  
-<a href="https://firebase.google.com/"><img src="images/firebase.svg" alt="firebase" width="60" height="60"/> </a></div>
+<a href="https://firebase.google.com/"><img src="images/firebase.svg" alt="firebase" width="60" height="60"/></a>
+</div>
 
 ### 🔧 Tools
 
