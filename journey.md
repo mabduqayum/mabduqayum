@@ -21,7 +21,7 @@
   - Completed "Adobe Illustrator CC - Essentials Training Course" by Daniel Walter Scott and Phil Ebiner
 - Autumn: Started working at Velox Company and began learning Web Development
   - Studied W3School HTML and CSS tutorial
-  - Completed Hyperskill Frontend Core (this helped me a lot, and the time of studying it was free on their website).
+  - Completed Hyperskill Frontend Core (this helped me a lot, and at the time of studying it was free on their website).
   - Studied web.dev CSS tutorials (the best-structured course)
 
 ## 2022
