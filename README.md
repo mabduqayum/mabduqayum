@@ -37,6 +37,7 @@
 <a href="https://nodejs.org"><img src="images/nodejs.svg" alt="nodejs" width="60" height="60"/></a> 
 <a href="https://nestjs.com/"><img src="images/nestjs.svg" alt="nestjs" width="60" height="60"/></a> 
 <a href="https://postgresql.org"><img src="images/psql.svg" alt="postgresql" width="60" height="60"/></a> 
+<a href="https://redis.io/"><img src="images/redis.svg" alt="redis" width="60" height="60"/></a> 
 <a href="https://prisma.io/"><img src="images/prisma.svg" alt="prisma js" width="60" height="60"/></a>  
 <a href="https://firebase.google.com/"><img src="images/firebase.svg" alt="firebase" width="60" height="60"/> </a></div>
 
