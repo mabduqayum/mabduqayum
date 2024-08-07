@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-### I'm a Full Stack Developer 💻
+### Software Engineer 💻
 
 - ✨ Creating bugs since 2019
 - 📚 Currently learning: System Architecture
@@ -10,7 +10,7 @@
     - 100 Go Mistakes (Teiva Harsanyi)
     - System Design Interview (Alex Xu)
     - NeetCode - 150 exercises
-- 🎲 Fun fact: nil, null, None
+- 🎲 Fun fact: nil
 
 ## 🛠️ Skills
 
@@ -60,9 +60,3 @@
 <a href="https://nginx.com"><img src="images/nginx.svg" alt="nginx" width="60" height="60"/></a><a href="https://gnu.org/software/bash/"><img src="images/bash.svg" alt="bash" width="60" height="60"/></a> 
 <a href="https://kubernetes.io"><img src="images/kubernetes.svg" alt="kubernetes" width="60" height="60"/></a> 
 </div>
-
-## 📬 Contacts
-
-- 📧 Email: [mabduqayum@gmail.com](mailto:mabduqayum@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/mabduqayum](https://www.linkedin.com/in/mabduqayum)
-- 💬 Telegram: [@mabduqayum](https://t.me/mabduqayum)

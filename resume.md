@@ -1,7 +1,5 @@
 # Muhammad-Ali Abduqayum
 
-933-05-1422 | [mabduqayum@gmail.com](mailto:mabduqayum@gmail.com) | [linkedin.com/in/mabduqayum](https://linkedin.com/in/mabduqayum) | [github.com/mabduqayum](https://github.com/mabduqayum)
-
 ## Professional Summary
 
 Versatile software developer with 3+ years of experience in full-stack development. Proficient in Go,
