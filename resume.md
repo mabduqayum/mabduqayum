@@ -4,11 +4,14 @@
 
 ## Professional Summary
 
-Versatile software developer with 3+ years of experience in full-stack development. Proficient in Go, JavaScript/TypeScript, and Python, with a strong background in building scalable backend services and responsive frontend applications. Committed to writing clean, efficient code and continuously learning new technologies.
+Versatile software developer with 3+ years of experience in full-stack development. Proficient in Go,
+JavaScript/TypeScript, and Python, with a strong background in building scalable backend services and responsive
+frontend applications. Committed to writing clean, efficient code and continuously learning new technologies.
 
 ## Experience
 
 ### Backend Developer
+
 **Transparent Language** | Jun 2023 -- July 2024
 
 - Developed and maintained backend services using Go, Python, TypeScript
@@ -18,6 +21,7 @@ Versatile software developer with 3+ years of experience in full-stack developme
 - Orchestrated deployment processes using Docker and Nginx
 
 ### Frontend Developer
+
 **Transparent Language** | Jan 2022 -- May 2023
 
 - Developed and maintained web applications using Angular and Angular Material
@@ -26,6 +30,7 @@ Versatile software developer with 3+ years of experience in full-stack developme
 - Mentored three intern developers and speeding up their onboarding process
 
 ### Frontend Intern
+
 **Transparent Language** | Aug 2021 -- Dec 2021
 
 - Developed and deployed 5+ test websites using HTML/CSS/JS
@@ -36,6 +41,7 @@ Versatile software developer with 3+ years of experience in full-stack developme
 ## Projects
 
 ### solim.tj
+
 **NestJS, PostgreSQL, Docker, Nginx, Angular** | Feb 2023 -- Dec 2023
 
 - Architected and developed a full-stack web application with NestJS serving a REST API and Angular frontend
@@ -47,6 +53,7 @@ Versatile software developer with 3+ years of experience in full-stack developme
 ## Education
 
 ### Bachelor of Computer Science
+
 **Tajik Technical University** | Dushanbe, Tajikistan | Sep 2019 -- Jun 2023
 
 ## Technical Skills
